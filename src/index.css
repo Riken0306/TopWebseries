@@ -79,3 +79,19 @@ button{
   border: 1px solid black;
   cursor: pointer;
 }
+
+@media(max-width: 750px){
+  .cards{
+    flex-direction: column;
+    align-items: center;
+    margin-top: 5px;
+  }
+  .card{
+    margin: 200px 0px;
+    width: 75%;
+    height: 30vh;
+  }
+  .card_img{
+    height: 460px;
+  }
+}
