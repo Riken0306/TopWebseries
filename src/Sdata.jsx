@@ -6,6 +6,18 @@ const Sdata=[
         link:"https://www.netflix.com/in/title/80100172"
     },
     {
+        imgsrc:"https://i.pinimg.com/originals/cd/63/9b/cd639b19e5355168e42fb74b41270fce.jpg",
+        title:"A Netflix Original Series",
+        sname:"BREAKING BAD",
+        link:"https://www.netflix.com/in/title/70143836"
+    },
+    {
+        imgsrc:"https://images-na.ssl-images-amazon.com/images/I/41t4yNGr-PL.jpg",
+        title:"A Netflix Original Series",
+        sname:"MONEY HEIST",
+        link:"https://www.netflix.com/in/title/80192098"
+    },
+    {
         imgsrc:"https://www.businessinsider.in/thumb/msid-78571585,width-600,resizemode-4,imgsize-352843/thelife/personalities/news/what-was-the-harshad-mehta-scam-1992-checkout-this-story-on-sonyliv/harshad-mehta.jpg",
         title:"SonyLiv Originals",
         sname:"SCAM 1992",
